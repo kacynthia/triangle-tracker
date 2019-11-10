@@ -1,0 +1,20 @@
+body{
+  background-image:url("https://images.pexels.com/photos/1585969/nature-milky-way-galaxy-space-1585969.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+h1{
+  padding:10%;
+}
+#form{
+  background-color:rgb(64, 69, 71);
+  border:5px solid yellow;
+  border-radius:3px;
+  width:60%;
+  padding:20px;
+
+
+}
+p{
+  color:white;
+}
